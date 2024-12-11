@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5F235CF-5AE0-41D5-92BC-08424CD5EE61}|PlatoGame\\PlatoGame.vcxproj|D:\\PROJECTS\\PlatoGame\\PlatoGame\\PlatoGame\\PlatoGame\\PlatoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E5F235CF-5AE0-41D5-92BC-08424CD5EE61}|PlatoGame\\PlatoGame.vcxproj|solutionrelative:PlatoGame\\PlatoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F235CF-5AE0-41D5-92BC-08424CD5EE61}|PlatoGame\\PlatoGame.vcxproj|D:\\PROJECTS\\PlatoGame\\PlatoGame\\PlatoGame\\PlatoGame\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5F235CF-5AE0-41D5-92BC-08424CD5EE61}|PlatoGame\\PlatoGame.vcxproj|solutionrelative:PlatoGame\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 175,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.h",
+              "DocumentMoniker": "D:\\PROJECTS\\PlatoGame\\PlatoGame\\PlatoGame\\PlatoGame\\Window.h",
+              "RelativeDocumentMoniker": "PlatoGame\\Window.h",
+              "ToolTip": "D:\\PROJECTS\\PlatoGame\\PlatoGame\\PlatoGame\\PlatoGame\\Window.h",
+              "RelativeToolTip": "PlatoGame\\Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T11:14:55.768Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
