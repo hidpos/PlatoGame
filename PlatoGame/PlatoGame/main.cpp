@@ -1,15 +1,12 @@
-#include "AppWindow.h"
+#include "dewcin.h"
 
-int main()
+dewcin_app_entry_point
 {
-	AppWindow app;
-	if (app.init())
-	{
-		while (app.isRun())
+	dewcin::Game::SetGameUpdate([&](float delta)
 		{
-			app.broadcast();
+			OutputDebugString(L"game update!");
 		}
-	}
+	);
 
 	return 0;
 }
